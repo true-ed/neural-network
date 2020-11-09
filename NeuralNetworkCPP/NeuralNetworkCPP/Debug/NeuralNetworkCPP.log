@@ -1,0 +1,7 @@
+﻿  NeuralNetworkCPP.cpp
+C:\Users\Ed\Work\My\github\neural-network\NeuralNetworkCPP\NeuralNetworkCPP\NeuralNetworkCPP.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Ed\Work\My\github\neural-network\NeuralNetworkCPP\NeuralNetworkCPP\NeuralNetworkCPP.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Ed\Work\My\github\neural-network\NeuralNetworkCPP\NeuralNetworkCPP\NeuralNetworkCPP.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Ed\Work\My\github\neural-network\NeuralNetworkCPP\NeuralNetworkCPP\NeuralNetworkCPP.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Ed\Work\My\github\neural-network\NeuralNetworkCPP\NeuralNetworkCPP\NeuralNetworkCPP.cpp(86,43): warning C4227: anachronism used: qualifiers on reference are ignored
+  NeuralNetworkCPP.vcxproj -> C:\Users\Ed\Work\My\github\neural-network\NeuralNetworkCPP\Debug\NeuralNetworkCPP.exe
